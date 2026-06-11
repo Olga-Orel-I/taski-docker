@@ -12,8 +12,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '158.160.155.159',
-    '123.123.123.123',
-    '<your_domain>',
+    'mytaskimytaski.myftp.org',
 ]
 
 
